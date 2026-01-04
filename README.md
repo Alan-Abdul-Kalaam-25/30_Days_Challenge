@@ -8,3 +8,9 @@
 - Reviewed **HTML5** and **CSS3**.
   - HTML now includes many new elements that simplify development.
   - CSS also introduces new properties and selectors.
+
+## DAY 2
+- Learned TypeScript (a superset of JavaScript) through a one-shot YT video.
+- Started learning **Cloud** through a free-tier AWS account.
+  - AWS was the first commercial cloud-service provider in the world.
+  - For being the first player, it still dominates the whole cloud market.
