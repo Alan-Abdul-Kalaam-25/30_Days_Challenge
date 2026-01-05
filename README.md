@@ -10,7 +10,17 @@
   - CSS also introduces new properties and selectors.
 
 ## DAY 2
-- Learned TypeScript (a superset of JavaScript) through a one-shot YT video.
+- Learned **TypeScript** (a superset of JavaScript) through a one-shot YT video.
 - Started learning **Cloud** through a free-tier AWS account.
   - AWS was the first commercial cloud-service provider in the world.
   - For being the first player, it still dominates the whole cloud market.
+
+## DAY 3
+- Completed the **Onboarding to AWS** tasks of **"Getting Started"**
+  - Setted up comute resources.
+  - Created storage resources.
+  - Deoployed a simple Node.js static website.
+  - Setted up resource monitoring for the app.
+- Made a **Docker Image** of a full-stack Vite app.
+- Learned about **Docker Volumes**.
+  - It's basically a storage area for Docker Containers to persist data.
