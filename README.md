@@ -17,10 +17,10 @@
 
 ## DAY 3
 - Completed the **Onboarding to AWS** tasks of **"Getting Started"**
-  - Setted up comute resources.
+  - Set up compute resources.
   - Created storage resources.
-  - Deoployed a simple Node.js static website.
-  - Setted up resource monitoring for the app.
+  - Deployed a simple Node.js static website.
+  - Set up resource monitoring for the app.
 - Made a **Docker Image** of a full-stack Vite app.
 - Learned about **Docker Volumes**.
   - It's basically a storage area for Docker Containers to persist data.
