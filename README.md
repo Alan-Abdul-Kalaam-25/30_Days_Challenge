@@ -5,7 +5,7 @@
   - Got hands-on practice with its syntax.
   - Learned that it has many variants.
   - The most widely used variant is GitHub Flavored Markdown (GFM).
-- Reviewed **HTML5** and **CSS3**.
+- Reviewed **HTML5** and **CSS3** by one-shot YT videos.
   - HTML now includes many new elements that simplify development.
   - CSS also introduces new properties and selectors.
 
@@ -24,3 +24,12 @@
 - Made a **Docker Image** of a full-stack Vite app.
 - Learned about **Docker Volumes**.
   - It's basically a storage area for Docker Containers to persist data.
+
+## DAY 4
+- Learned about **EC2** service in-dept of AWS.
+  - It's actually a **VPS** called **EC2** on AWS.
+  - It has a **customized varient** of Linux called **Amazon Linux**.
+  - It's the main component which servers the **services** on AWS.
+  - We can have multiple **EC2 instances** for hosting different-different **microservices**.
+- Started revising **JavaScript** from a one-shot YT video from **super-simple-dev** channel.
+  - And this course has **certification for completion** also.
