@@ -33,3 +33,10 @@
   - We can have multiple **EC2 instances** for hosting different-different **microservices**.
 - Started revising **JavaScript** from a one-shot YT video from **super-simple-dev** channel.
   - And this course has **certification for completion** also.
+  
+## DAY 5 
+- Started learning **Linux** (**Debian-Based**) from F**reeCodeCamp's Linux Course** on YT.
+  - Installed **Debian 13 (trixie)**.
+- Installed **Oracle Virtual Box** for learning linux and had learned concepts for operating VirtualBox.
+  - Read a wikipedia article about **Hypervision** that enables that **Virtualization** for running multiple OSes in the same machine.
+  - Virtualization is a **CPU-Based implemenation** that has to be enabled from the **UEFI/BIOS** menu of the machine.
