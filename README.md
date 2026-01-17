@@ -40,3 +40,6 @@
 - Installed **Oracle Virtual Box** for learning linux and had learned concepts for operating VirtualBox.
   - Read a wikipedia article about **Hypervision** that enables that **Virtualization** for running multiple OSes in the same machine.
   - Virtualization is a **CPU-Based implemenation** that has to be enabled from the **UEFI/BIOS** menu of the machine.
+
+## DAY 6 
+- Explored more of the Linux OS through it's Kernel design.
