@@ -35,7 +35,7 @@
   - And this course has **certification for completion** also.
   
 ## DAY 5 
-- Started learning **Linux** (**Debian-Based**) from F**reeCodeCamp's Linux Course** on YT.
+- Started learning **Linux** (**Debian-Based**) from **FreeCodeCamp's Linux Course** on YT.
   - Installed **Debian 13 (trixie)**.
 - Installed **Oracle Virtual Box** for learning linux and had learned concepts for operating VirtualBox.
   - Read a wikipedia article about **Hypervision** that enables that **Virtualization** for running multiple OSes in the same machine.
@@ -43,3 +43,8 @@
 
 ## DAY 6 
 - Explored more of the Linux OS through it's Kernel design.
+
+## DAY 7 
+- Installed a new **Debian-Based** **Penetration-Testing** distro called **Parrot OS** for exploring various penetration tools.
+  - Choosen this over Kali-Linux because it has more packages then kali and it's more stable and secure than kali.
+  - I installed Parrot OS via a **pre-made VM image** of **.ova** type that can be use in **both** the **VMware Workstation** and **Oracle Virtual Box** softwares.
