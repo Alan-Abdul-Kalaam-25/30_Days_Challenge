@@ -48,3 +48,6 @@
 - Installed a new **Debian-Based** **Penetration-Testing** distro called **Parrot OS** for exploring various penetration tools.
   - Choosen this over Kali-Linux because it has more packages then kali and it's more stable and secure than kali.
   - I installed Parrot OS via a **pre-made VM image** of **.ova** type that can be use in **both** the **VMware Workstation** and **Oracle Virtual Box** softwares.
+
+## DAY 8
+- Learned about **Cron Jobs** in Linux
